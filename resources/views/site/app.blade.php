@@ -48,13 +48,13 @@
   </div> -->
 
   <!-- Footer -->
-  <div class="container-fluid fixed-bottom bg-white">
+  <div class="container-fluid fixed-bottom bg-white border-top border-light shadow-lg">
     <div class="row">
       <div class="col-12">
       <nav class="navbar navbar-expand-lg navbar-light bg-white">
-        <a class="navbar-brand text-black-50" href="/"><b>Red llama</b></a>
-        <button class="navbar-toggler bg-yellow text-white" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <i class="fa fa-arrow-up"></i>
+        <a class="navbar-brand text-black-50" href="/"><img src="/assets/img/logo_img.svg" height="40" alt=""></a>
+        <button class="navbar-toggler bg-danger text-white" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <i class="fa fa-bars"></i>
         </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav m-auto">
