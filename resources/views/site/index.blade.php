@@ -6,7 +6,7 @@
     <div class="row">
       <div class="col-12 d-flex flex-column justify-content-center align-items-center">
         <h1 class="banner-title mt-3 mb-3 text-center text-uppercase">
-        <span class="badge badge-dark">UI <small>/</small> UX</span> <br>
+        UI/UX <br>
         design agency
 
         </h1>
