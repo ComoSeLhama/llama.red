@@ -11,7 +11,9 @@
 
         </h1>
         <div class="red"></div>
-        <p class="font-weight-bold text-black-50 text-center mt-5">AND DEVELOPMENT COMPANY FOR WEB/MOBILE APPS</p>
+        <h2 class="font-weight-bold text-black-50 text-center mt-5"><span class="badge badge-danger">AND</span> </h2>
+        <h2 class="font-weight-bold text-black-50 text-center"><span class="badge badge-danger">DEVELOPMENT COMPANY</span> </h2>
+        <h2 class="font-weight-bold text-black-50 text-center "><span class="badge badge-danger">FOR WEB/MOBILE APPS.</span> </h2>
         <!-- <div class="font-weight-bold text-black-50 mt-2">
             <h4 class="font-weight-bold text-black-50">Services</h4>
             <ul class="list-group list-group-flush">
