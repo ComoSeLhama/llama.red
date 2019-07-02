@@ -77,8 +77,8 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-            <h2 class="section-title mt-3">Services</h2>
-          <div class="red"></div>
+                <h2 class="section-title mt-3">Services</h2>
+                <div class="red"></div>
             </div>
         </div>
       <div class="row d-flex justify-content-center align-items-center align-content-center">
@@ -135,26 +135,152 @@
             - Raphael Morales (Dev)</span>
         </div>
       </div>
+        <hr>
     </div>
   </section>
 
+
+
+  <section>
+      <div class="container">
+        <div class="row">
+            <div class="col-12 d-flex flex-column justify-content-center align-items-center">
+                <h2 class="section-title mt-3">Portifa</h2>
+                <div class="red"></div>
+            </div>
+        </div>
+          <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-4">
+                    <div class="card text-white shadow">
+                        <img class="card-img" src="https://i.pinimg.com/564x/97/92/98/9792985c3bb489c388254b2805f1b318.jpg" alt="Card image">
+                        <div class="card-img-overlay d-flex flex-column justify-content-end align-items-start ">
+                            <div>
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text bg-dark">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="card-text">Last updated 3 mins ago</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-4">
+                    <div class="card text-white shadow">
+                        <img class="card-img" src="https://i.pinimg.com/564x/0b/bf/7b/0bbf7bd133bae6403c48a39772196f48.jpg" alt="Card image">
+                        <div class="card-img-overlay d-flex flex-column justify-content-end align-items-start ">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            <p class="card-text">Last updated 3 mins ago</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-4">
+                    <div class="card text-white shadow">
+                        <img class="card-img" src="https://i.pinimg.com/564x/06/de/d8/06ded806016ddbf71490aab368cbba1f.jpg" alt="Card image">
+                        <div class="card-img-overlay d-flex flex-column justify-content-end align-items-start ">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            <p class="card-text">Last updated 3 mins ago</p>
+                        </div>
+                    </div>
+                </div>
+          </div>
+          <div class="row mt-4">
+                <div class="col-sm-12 col-md-12 col-lg-4 col-xl-6 mt-6">
+                    <div class="card text-white shadow">
+                        <img class="card-img" src="https://i.pinimg.com/564x/97/92/98/9792985c3bb489c388254b2805f1b318.jpg" alt="Card image">
+                        <div class="card-img-overlay d-flex flex-column justify-content-end align-items-start ">
+                            <div>
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text bg-dark">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="card-text">Last updated 3 mins ago</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4 col-xl-6 mt-6">
+                    <div class="card text-white shadow">
+                        <img class="card-img" src="https://i.pinimg.com/564x/0b/bf/7b/0bbf7bd133bae6403c48a39772196f48.jpg" alt="Card image">
+                        <div class="card-img-overlay d-flex flex-column justify-content-end align-items-start ">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            <p class="card-text">Last updated 3 mins ago</p>
+                        </div>
+                    </div>
+                </div>
+          </div>
+      </div>
+  </section>
+
   <hr>
-  <!-- Price -->
+  <!-- find -->
   <section class="my-5 bg-price pb-4">
     <div class="container ">
         <div class="row">
             <div class="col d-flex flex-column justify-content-center align-items-center">
-            <p class="section-title mt-3 mb-3 text-center"> Find us</p>
+            <p class="section-title mt-3 mb-3 text-center"> Suport</p>
                 <div class="red mb-4"></div>
             </div>
         </div>
-      <div class="row ">
-        <div class="col-12 d-flex flex-wrap justify-content-around align-items-center">
+        <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-4 d-flex justify-content-center">
+                <div class="pricing bg-white card-deck">
+                    <div class="card-pricing text-center px-3 mb-4 mx-2 shadow">
+                        <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-danger text-white shadow-sm">Brasil</span>
+                        <div class="bg-transparent card-header border-0">
 
+                        </div>
+                        <img src="/assets/img/skyline2.svg" class="img-fluid" alt="">
+                        <div class="card-body pt-0">
+                        <p class="mt-2">
+                        300 Broadway, Suite 23 <br>
+                        San Francisco, CA 94133
+                        </p>
+                        <button type="button" class="btn btn-outline-secondary mb-3">Hire us</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-4 d-flex justify-content-center ">
+                <div class="pricing bg-white card-deck">
+                    <div class="card-pricing text-center px-3 mb-4 mx-2 shadow">
+                        <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-secondary text-white shadow-sm">Portugal</span>
+                        <div class="bg-transparent card-header border-0">
 
+                        </div>
+                        <img src="/assets/img/skyline2.svg" class="img-fluid" alt="">
+                        <div class="card-body pt-0">
+                        <p class="mt-2">
+                        300 Broadway, Suite 23 <br>
+                        San Francisco, CA 94133
+                        </p>
+                        <button type="button" class="btn btn-outline-secondary disabled mb-3">Coming soon</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 mt-4 d-flex justify-content-center">
+                <div class="pricing bg-white card-deck">
+                    <div class="card-pricing text-center px-3 mb-4 mx-2 shadow">
+                        <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-secondary text-white shadow-sm">Canada</span>
+                        <div class="bg-transparent card-header border-0">
 
+                        </div>
+                        <img src="/assets/img/skyline2.svg" class="img-fluid" alt="">
+                        <div class="card-body pt-0">
+                        <p class="mt-2">
+                        300 Broadway, Suite 23 <br>
+                        San Francisco, CA 94133
+                        </p>
+                        <button type="button" class="btn btn-outline-secondary mb-3"></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-            <div class="pricing bg-white card-deck flex-column flex-md-row">
+        </div>
+      <!-- <div class="row d-flex justify-content-center align-items-center align-content-center flex-column ">
+        <div class="col-12 d-flex justify-content-center align-items-center align-content-center flex-column">
+
+            <div class="pricing bg-white card-deck flex-column">
                 <div class="card-pricing text-center px-3 mb-4 mx-2 shadow">
                     <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-danger text-white shadow-sm">Brasil</span>
                     <div class="bg-transparent card-header border-0">
@@ -170,7 +296,10 @@
                     </div>
                 </div>
             </div>
-            <div class="pricing bg-white card-deck flex-column flex-md-row">
+        </div>
+
+        <div class="col-12 d-flex justify-content-center align-items-center align-content-center">
+            <div class="pricing bg-white card-deck flex-column">
                 <div class="card-pricing text-center px-3 mb-4 mx-2 shadow">
                     <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-danger text-white shadow-sm">Portugal</span>
                     <div class="bg-transparent card-header border-0">
@@ -186,27 +315,9 @@
                     </div>
                 </div>
             </div>
-            <div class="pricing bg-white card-deck flex-column flex-md-row">
-                <div class="card-pricing text-center px-3 mb-4 mx-2 shadow">
-                    <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-danger text-white shadow-sm">Orlando</span>
-                    <div class="bg-transparent card-header border-0">
-
-                    </div>
-                    <img src="/assets/img/skyline2.svg" class="img-fluid" alt="">
-                    <div class="card-body pt-0">
-                    <p class="mt-2">
-                    300 Broadway, Suite 23 <br>
-                    San Francisco, CA 94133
-                    </p>
-                    <button type="button" class="btn btn-outline-secondary mb-3">Hide Us</button>
-                    </div>
-                </div>
-            </div>
-
-
 
         </div>
-      </div>
+      </div> -->
     </div>
   </section>
 
